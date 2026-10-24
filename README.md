@@ -62,7 +62,7 @@
 - 🐛 I don't write bugs, I write *surprise features*
 - ☕ My code compiles about as often as I do my laundry
 - 🪄 "It works, don't touch it" is a valid engineering strategy
-- 🌊 I'd rather be surfing, but the wifi is worse out there
+- 🌊 I'd rather be sailing, but the wifi is worse out there
 
 ---
 
