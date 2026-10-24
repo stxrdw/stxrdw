@@ -41,11 +41,7 @@
 
 ## 🛠️ Stuff I use
 
-<div align="center">
-
-`Python` · `C++` · `PyTorch` · `Git` · `GitHub` · `GitLab` · `VS Code` · `Linux`
-
-</div>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,git,github,gitlab,vscode&perline=7" alt="Python, C++, PyTorch, Git, GitHub, GitLab, VS Code" /> </div>
 
 *(If it's not here, I either Googled it or I'm about to.)*
 
