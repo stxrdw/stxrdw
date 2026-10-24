@@ -41,7 +41,7 @@
 
 ## 🛠️ Stuff I use
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,git,github,gitlab,vscode&perline=7" alt="Python, C++, PyTorch, Git, GitHub, GitLab, VS Code" /> </div>
+<div align="center"> <p align="center"><img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,git,github,gitlab,vscode&perline=8" alt="Python, C++, Java, PyTorch, Git, GitHub, GitLab, VS Code" /></p> <p align="center"><i>(If it's not here, I either Googled it or I'm about to.)</i></p> </div>
 
 *(If it's not here, I either Googled it or I'm about to.)*
 
