@@ -23,7 +23,6 @@
 | 🧭 **Also** | Ex-Sea Scouts patrol leader. I can tie knots *and* write loops |
 | 🌱 **Learning** | Whatever breaks next |
 | 💬 **Ask me about** | Terrain editing, text classification, and why my code needs a nap |
-| 📬 **Contact** | [Email](mailto:klmedx001@myuct.ac.za) · [LinkedIn](https://www.linkedin.com/in/edkalumba) · [Instagram](https://www.instagram.com/stxrdw_) |
 
 ---
 
