@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏄‍♂️ Hi, I'm Teejay! 👋
+# 🏄‍♂️ Hi, I'm Ed! 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Student+by+day.+Bug+creator+by+night.;It+works+on+my+machine.+%F0%9F%A4%B7;Robots%2C+code%2C+and+questionable+decisions.;Ctrl%2BZ+is+my+best+friend." alt="Typing SVG" />
 
